@@ -103,17 +103,16 @@ body {
     font-size: 1vw;
 }
 
-#irreducible {
-    background-image: url(../materials/irreducible/copertina.png);
-    background-position: 0 70%;
+#hellsChicken {
+    background-image: url(../materials/hells_chicken/copertina.jpg);
+}
+
+#mkwii {
+    background-image: url(../materials/mkwii/mkwii12.jpg);
 }
 
 #meet {
     background-image: url(../materials/meet/meet1.png);
-}
-
-#offthegrid {
-    background-image: url(../materials/offthegrid/copertina.jpg);
 }
 
 #seeAll {
